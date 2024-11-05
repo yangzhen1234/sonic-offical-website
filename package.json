@@ -7,7 +7,7 @@
     "serve": "vitepress serve"
   },
   "dependencies": {
-    "@docsearch/js": "^3.3.0",
+    "@docsearch/js": "^3.6.2",
     "element-plus": "latest",
     "vue": "^3.2.45",
     "vue-i18n": "^9.2.2"
