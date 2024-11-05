@@ -9,7 +9,7 @@
   "dependencies": {
     "@docsearch/js": "^3.3.0",
     "element-plus": "latest",
-    "vue": "^3.2.45",
+    "vue": "^3.5.12",
     "vue-i18n": "^9.2.2"
   },
   "devDependencies": {
