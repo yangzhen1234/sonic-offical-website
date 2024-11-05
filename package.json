@@ -10,7 +10,7 @@
     "@docsearch/js": "^3.3.0",
     "element-plus": "latest",
     "vue": "^3.2.45",
-    "vue-i18n": "^9.2.2"
+    "vue-i18n": "^9.14.1"
   },
   "devDependencies": {
     "@babel/types": "^7.20.7",
